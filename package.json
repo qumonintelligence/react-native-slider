@@ -1,5 +1,5 @@
 {
-  "name": "@ekreative/react-native-slider",
+  "name": "@qumonintelligence/react-native-slider",
   "version": "1.0.2",
   "description": "A pure JavaScript <Slider /> component for react-native",
   "main": "lib/Slider.js",
@@ -7,7 +7,7 @@
     "lib",
     "src"
   ],
-  "author": "Oleksandr Hubar",
+  "author": "Qumon Intelligence",
   "keywords": [
     "react-component",
     "react-native",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ekreative/react-native-slider.git"
+    "url": "git@github.com:qumonintelligence/react-native-slider.git"
   },
   "dependencies": {
     "prop-types": "^15.5.6"
